@@ -1,8 +1,7 @@
 # Predicting a patient with a potential heart disease
 Let's develop a model in order to predict heart disease
 
-
-<img width="695" alt="aa" src="https://github.com/Vincent-Ambrose/Predicting-a-Customer-Churn-Telecom/assets/118930159/70354c37-2dd5-46e7-9b46-60538ab6903b">
+![heart](https://github.com/Vincent-Ambrose/Predicting-a-patient-with-a-potential-heart-disease/assets/118930159/563c5ae0-8208-48d4-8be7-e1eb34a47c9c)
 
 
 Description of the project:
